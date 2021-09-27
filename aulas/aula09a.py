@@ -6,7 +6,7 @@ Python"""          #Utilizar três aspas permite pular a linha
 print(frase[6])                 #Printa o caracter que ocupa a posição 5
 print(frase[9:14])              #Printa os caracteres da posiçao 9 à 13
 print(frase[9:21:2])            #Printa os caracteres da posição 9 à 20 (de 2 em 2)
-print(frase[:5])                #Printa os caracteres da primeira posição até a posição 5
+print(frase[:5])                #Printa os caracteres da primeira posição até a posição 4
 print(frase[15:])               #Printa os caracteres da posição 15 até a última
 print(frase[9::3])              #Printa os caracteres da posição 9 até o final (de 3 em 3)
 
@@ -26,7 +26,7 @@ frase.upper()           #Transforma todas as letras minúsculas em maiúsculas
 frase.lower()           #Transforma todas as letras maiúsculas em minúsculas
 frase.capitalize()      #Transforma apenas a primeira letra da frase em maiúscula e o resto em minúscula
 frase.title()           #Transforma apenas as letras iniciais das palavras em maiúsculas e o resto em minúscula
-frase.strip()           #Remove todos os espaços "inúteis" (à esquerda ou a direita)
+frase.strip()           #Remove todos os espaços "inúteis" (à esquerda e a direita)
 frase.rstrip()          #Remove apenas os espaços "inúteis" do lado direito
 frase.lstrip()          #Remove apenas os espaços "inúteis" do lado esquerdo
 
