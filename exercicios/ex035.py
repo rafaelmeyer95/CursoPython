@@ -1,4 +1,5 @@
 # Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+#update
 
 a = float(input('Digite o comprimento do primeiro vértice: '))
 b = float(input('Digite o comprimento do segundo vértice: '))
