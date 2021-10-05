@@ -5,8 +5,6 @@
 # O professor resolveu com while mas foram muitas condições e o código ficou muito grande.
 # Apesar de ser um exercício voltado a prática do while não achei uma boa aplicação e acabei não utilizando
 
-resto = 1
-
 valor = int(input('Digite o valor a ser sacado: '))
 ced50 = valor // 50
 ced20 = (valor - (ced50*50))// 20
