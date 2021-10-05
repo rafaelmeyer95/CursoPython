@@ -195,7 +195,3 @@ if cartasjogador == 0:
     print('\033[7;33;41mVOCÊ PERDEU O JOGO!\033[m')
 if cartasmaquina == 0:
     print('\033[7;33;41mVOCÊ GANHOU O JOGO!\033[m')
-
-
-
-
