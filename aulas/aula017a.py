@@ -1,3 +1,5 @@
+# Aula 017 - Variável Composta do Tipo Lista (Parte 1)
+
 lista = [2, 5, 9, 1]            # Cria uma lista                                    >> [2, 5, 9, 1]
 lista[2] = 3                    # Altera o valor do elemento da posição 2           >> [2, 5, 3, 1]
 lista.append(7)                 # Insere um elemento no final da lista              >> [2, 5, 3, 1, 7]
