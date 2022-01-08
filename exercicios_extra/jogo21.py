@@ -37,4 +37,3 @@ if jogador1 < 22 and jogador2< 22:
         print('Jogador2 Venceu')
     else:
         print('Empate')
-
