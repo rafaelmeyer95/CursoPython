@@ -8,6 +8,7 @@ def contador(* num):
     print(f'{num} tem {tam} números e a soma deles é {soma}')
 
 
+
 contador(2,6,12)
 contador(2,5)
 contador(4,7,0,12,9,5)
